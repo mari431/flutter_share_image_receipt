@@ -2,15 +2,8 @@
 
 A new Flutter project.
 
-## Getting Started
+## Output Video
 
-This project is a starting point for a Flutter application.
+[output_video.webm](https://github.com/mari431/flutter_share_image_receipt/assets/51232711/518434e5-57bf-4c8f-816a-1aeabb3f1e32)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
